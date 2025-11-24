@@ -18,7 +18,7 @@ This project demonstrates a simple microservices architecture using Node.js, Mon
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-F5A623?style=for-the-badge&logo=containerd&logoColor=white)
 
 ## Folder Structure
 
